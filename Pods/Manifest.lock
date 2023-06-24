@@ -1,0 +1,16 @@
+PODS:
+  - PopKit (0.0.2)
+
+DEPENDENCIES:
+  - PopKit (= 0.0.2)
+
+SPEC REPOS:
+  "git@github.com:skyfoxs/PopKit.git":
+    - PopKit
+
+SPEC CHECKSUMS:
+  PopKit: 3e0994c27da7c10662969909740926cf70396657
+
+PODFILE CHECKSUM: 95e499e9e61180ba9414c5fb05a6177ffca3b510
+
+COCOAPODS: 1.12.1
